@@ -29,7 +29,7 @@ export default function SecondRow() {
                 <div className="list-pengalaman">
                     <h3 className="mb-5"><i className="bi bi-moon-stars"></i> Pengalaman</h3>
                     <div className="mb-3">
-                        <p>2022 ( 2 bulan )</p>
+                        <p className="fw-bold">14 Febuari 2022 - 13 April 2022 (2 Bulan)</p>
                         <h5 className="mb-1">PT. Visi Teguh Kreatif</h5>
                         <p>mengerjakan bagian frontend pada sebuah website</p>
                         <hr></hr>
