@@ -51,7 +51,7 @@ export default function ThirdRow() {
         </div>
         
         {/* Modal */}
-        <div className="modal fade" id="modal1" tabindex="-1" aria-labelledby="modal1" aria-hidden="true">
+        <div className="modal fade" id="modal1" tabIndex="-1" aria-labelledby="modal1" aria-hidden="true">
             <div className="modal-dialog">
                 <div className="modal-content text-dark">
                     <div className="modal-header">
