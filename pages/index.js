@@ -8,9 +8,11 @@ export default function index() {
     <>
     
     <div className="container">
+
         <FirstRow />
         <SecondRow />
         <ThirdRow />
+        
     </div>
     
     </>
